@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0012/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0012/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 受持七佛名號所生功德經
+  identifiers:
+    krp: KR6i0012
+    cbeta: T14n0436
+    cbeta_old_id: T14n0436
+    authorityid: CA0003166
+    json_key: T0436
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0436.xml
+    old_id: T14n0436
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0012_000-T.yaml, hash: 'sha256:a654df340cf0dbf05ca78d6a486e7ca2aa7440a3d0e9957bb7e2b8bc8bb50872'}
+  - {seq: 1, filename: KR6i0012_001-T.yaml, hash: 'sha256:1b26b23deaf6244dfd5043edbe898887d65ec944322f85f9ed5f41231ea4cfb6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0012_000-T.markers.yaml, hash: 'sha256:3c38aa6f048fa0d8aaf5d7db909d5f1568c2d33ebc7e92780c19c45669a926f8'}
+  - {seq: 1, role: markers, filename: assets/KR6i0012_001-T.markers.yaml, hash: 'sha256:865b94d040323a64e3b1e2fc758538065a13d7dcefcff03f7ba00ddbb2b8481e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0012_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1760
+  label: 受持七佛名號所生功德經
+  type: juan
+  level: 1
+hash: sha256:ab330a340967f0ab1589d186a027c61df4b4967628bbac418bc9d02eba043914

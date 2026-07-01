@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0012/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 受持七佛名號所生功德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0436.xml
+    old_id: T14n0436
+hash: sha256:a654df340cf0dbf05ca78d6a486e7ca2aa7440a3d0e9957bb7e2b8bc8bb50872
