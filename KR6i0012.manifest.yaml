@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0012_000.yaml, hash: 'sha256:a654df340cf0dbf05ca78d6a486e7ca2aa7440a3d0e9957bb7e2b8bc8bb50872'}
-  - {seq: 1, filename: KR6i0012_001.yaml, hash: 'sha256:e4e6eda7226a743fecd4584b910a03a20756a4a5b8c1a9195ae91fa3eccb27b0'}
+  - {seq: 1, filename: KR6i0012_001.yaml, hash: 'sha256:1b26b23deaf6244dfd5043edbe898887d65ec944322f85f9ed5f41231ea4cfb6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0012_001.markers.yaml, hash: 'sha256:55137c670cac91321611432e586951c342bffc2453ab7256ebc21ec010e5926e'}
+  - {seq: 0, role: markers, filename: assets/KR6i0012_000.markers.yaml, hash: 'sha256:7f209ebae7e8dc1b91483c2e25d8b7b1fb39c822e90205739f3e1d4b37bb5f3c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0012_001.markers.yaml, hash: 'sha256:0715043dc1881e0e62e53ca37ead7e3226ba46ea82db31daa026e5b77a9e9272'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 受持七佛名號所生功德經
   type: juan
   level: 1
-hash: sha256:7c62e0977887edc023b70d6a621d05e9e20ee02a230e5847f9ba80e271517d32
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d51ca4d0fe1c2bb00197b6b7c2a032f17c75c48f27cbbbf850a48e4002e73a6a
