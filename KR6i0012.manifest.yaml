@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0012/v1
 canonical_location: https://kanripo.org/bkk/KR6i0012/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 受持七佛名號所生功德經
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0012_000.yaml, hash: 'sha256:a654df340cf0dbf05ca78d6a486e7ca2aa7440a3d0e9957bb7e2b8bc8bb50872'}
-  - {seq: 1, filename: KR6i0012_001.yaml, hash: 'sha256:1b26b23deaf6244dfd5043edbe898887d65ec944322f85f9ed5f41231ea4cfb6'}
+  - {seq: 1, filename: KR6i0012_001.yaml, hash: 'sha256:be8247f1f0994fa067165aa5b7c1c7c9e9a29b82e1a4e9491eb0fdfe17c7cf70'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0012_000.markers.yaml, hash: 'sha256:7f209ebae7e8dc1b91483c2e25d8b7b1fb39c822e90205739f3e1d4b37bb5f3c'}
-  - {seq: 1, role: markers, filename: assets/KR6i0012_001.markers.yaml, hash: 'sha256:0715043dc1881e0e62e53ca37ead7e3226ba46ea82db31daa026e5b77a9e9272'}
+  - {seq: 1, role: markers, filename: assets/KR6i0012_001.markers.yaml, hash: 'sha256:285521f4b2c7cd099992c71c0c6a9e8b8870fc0ab41b2eb88a7ce2a1877fe7f7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 受持七佛名號所生功德經
   type: juan
   level: 1
-hash: sha256:d51ca4d0fe1c2bb00197b6b7c2a032f17c75c48f27cbbbf850a48e4002e73a6a
+hash: sha256:ec12ed2011e935ad4ecf83f43ea04b74e725ff96db67acf6dc4e5041b8606094
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
